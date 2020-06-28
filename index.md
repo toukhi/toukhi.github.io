@@ -8,3 +8,5 @@ Harry James Potter is the titular protagonist of J. K. Rowling's Harry Potter se
 * Selfless
 * Strong Willed
 * Instinctive
+
+> I don't go looking for trouble. Trouble usually finds me.
